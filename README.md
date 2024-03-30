@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Rukshan Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F95F7&center=true&random=false&width=600&lines=Studying+at+the+University+of+Moratuwa%2C+;Faculty+of+Information+Technology;Open+to+collaboration+on+interesting+projects.;Always+learning+and+exploring+new+technologies.;Enjoy+exploring+the+intersections+of+technology+and+creativity." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F95F7&center=true&random=false&width=600&lines=Studying+at+the+University+of+Moratuwa%2C+;Faculty+of+Information+Technology;Open+to+collaboration+on+interesting+projects.;Always+learning+and+exploring+new+technologies." alt="Typing SVG" /></a>
 </p>
 
 
