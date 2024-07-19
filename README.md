@@ -1,4 +1,4 @@
-![NimeshRukshan] ##(assets/TopImage.gif)
+##![NimeshRukshan](assets/TopImage.gif)
 
 <p align="center">
 	<a href="https://bit.ly/NimeshRukshan" title="Web"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32"></a> &nbsp;
