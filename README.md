@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=600&size=48&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=1500&height=200&lines=IT+Undergraduate+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Microsoft+Excel+Expert+%F0%9F%92%BB;Dashboard+Designer+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=600&size=48&pause=1000&color=333333&center=true&vCenter=true&random=false&width=1500&height=200&lines=IT+Undergraduate+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Microsoft+Excel+Expert+%F0%9F%92%BB;Dashboard+Designer+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Profile Views</h2>
