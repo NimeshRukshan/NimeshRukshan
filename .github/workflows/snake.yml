@@ -28,6 +28,18 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+
+      - name: Ensure output branch exists
+        run: |
+          git fetch origin
+          if ! git rev-parse --verify origin/output; then
+            git checkout -b output
+            git push origin output
+          else
+            git checkout output
+          fi
+
+
       - name: Commit and Push
         run: |
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
