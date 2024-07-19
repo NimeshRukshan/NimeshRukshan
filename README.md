@@ -5,7 +5,7 @@
 	<a href="mailto:rukshanfernando0416@gmail.com" title="email"><img src="assets/LogoIcons/gmail.png" alt="Email" width="32" height="32"></a> &nbsp;
 	<a href="https://www.linkedin.com/in/rukshanfdo" title="LinkedIn"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://twitter.com/NimeshRukshan" title="Twitter"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a> &nbsp;
-	<a href="https://web.facebook.com/RukshanFernando1216 title="Facebook"><img src="assets/LogoIcons/facebook.png" alt="Facebook" width="32" height="32"></a> &nbsp;
+	<a href="https://web.facebook.com/RukshanFernando1216" title="Facebook"><img src="assets/LogoIcons/facebook.png" alt="Facebook" width="32" height="32"></a> &nbsp;
 	<a href="https://www.instagram.com/nimesh_ferrnando/?utm_source=qr&r=nametag" title="Instagram"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a> &nbsp;
 	<a href="https://api.whatsapp.com/send?phone=94773000961" title="WhatsApp"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a> &nbsp;
 </p>
