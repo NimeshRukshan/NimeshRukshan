@@ -126,6 +126,7 @@
 </p>
 
 ---
+## 🐍 Watch the Snake Bite My Contribution Graph! 📈
 
 <p align="center">
     <img src="https://github.com/NimeshRukshan/NimeshRukshan/blob/output/dist/github-contribution-grid-snake-dark.svg">
