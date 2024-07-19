@@ -26,6 +26,9 @@
   <a href="https://github.com/NimeshRukshan?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://gist.github.com/NimeshRukshan" target="_blank"><img alt="All Gists" title="All Gists" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Gists-2962FF?style=for-the-badge&logoColor=white&logo=gist"/></a>
 </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Martian+Mono&weight=600&size=48&pause=1000&color=4A90E2&center=true&vCenter=true&random=false&width=1500&height=200&lines=IT+Undergraduate+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%92%BB;Microsoft+Excel+Expert+%F0%9F%92%BB;Dashboard+Designer+%F0%9F%93%88" alt="Typing SVG" />
+</p>
 
 ## Personal Stuffs
 
