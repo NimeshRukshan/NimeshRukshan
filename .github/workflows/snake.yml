@@ -28,6 +28,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+
       - name: Ensure output branch exists
         run: |
           git fetch origin
@@ -37,6 +38,7 @@ jobs:
           else
             git checkout output
           fi
+
 
       - name: Commit and Push
         run: |
