@@ -28,9 +28,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+<<<<<<< HEAD
       - name: Remove untracked files (if any)
         run: |
           git clean -f dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg
+=======
+>>>>>>> bf1936767604c37130c5e793402824608f3ba217
 
       - name: Ensure output branch exists
         run: |
@@ -41,6 +44,7 @@ jobs:
           else
             git checkout output
           fi
+
 
       - name: Commit and Push
         run: |
