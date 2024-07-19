@@ -28,6 +28,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Remove untracked files (if any)
+        run: |
+          git clean -f dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg
+
       - name: Ensure output branch exists
         run: |
           git fetch origin
@@ -44,4 +48,4 @@ jobs:
           git commit -m "Generate snake animation"
           git push origin output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
