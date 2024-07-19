@@ -43,15 +43,13 @@ jobs:
           fi
 
       - name: Check for changes
-        id: changes
+        id: check_changes
         run: |
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
-          if git diff-index --quiet HEAD --; then
-            echo "no changes" > /tmp/changes
-          fi
+          git diff-index --quiet HEAD || echo "::set-output name=changes::true"
 
       - name: Commit and Push
-        if: steps.changes.outputs.changes != 'no changes'
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git commit -m "Generate snake animation"
           git push origin output
