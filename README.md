@@ -128,7 +128,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/NimeshRukshan/NimeshRukshan/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/NimeshRukshan/NimeshRukshan/blob/output/dist/github-contribution-grid-snake-dark.svg">
 </p>
 
 ## 🏆 GitHub Trophies
