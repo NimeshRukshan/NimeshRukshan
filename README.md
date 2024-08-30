@@ -67,9 +67,9 @@
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 	<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 	<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
-	<a href="#"><img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"></a>
+<!-- 	<a href="#"><img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"></a>
 	<a href="#"><img alt="Jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></a>
-	<a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit"></a>
+	<a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit"></a> -->
 </p>
 
 ### 🗄 Databases and Cloud hosting
@@ -85,7 +85,7 @@
 	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 	<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 	<a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
-	<a href="#"><img alt="Glitch" src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"></a>
+<!-- 	<a href="#"><img alt="Glitch" src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"></a> -->
 	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
 </p>
 
@@ -104,8 +104,8 @@
 	<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-000000.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
-	<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
-	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
+<!-- 	<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a> -->
 	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
 	<a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
@@ -138,7 +138,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NimeshRukshan)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-	<img src="assets/BottomImage.gif">
+<!-- 	<img src="assets/BottomImage.gif"> -->
 </p>
 
 ---
