@@ -1,7 +1,7 @@
 
 
 <p align="center">
-	<a href="https:rukshanfernando.me" title="Web" target="_blank"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32"></a> &nbsp;
+	<a href="https://www.rukshanfernando.me" title="Web" target="_blank"><img src="assets/LogoIcons/web.png" alt="Web" width="32" height="32"></a> &nbsp;
 	<a href="mailto:rukshanfernando0416@gmail.com" title="email" target="_blank"><img src="assets/LogoIcons/gmail.png" alt="Email" width="32" height="32"></a> &nbsp;
 	<a href="https://www.linkedin.com/in/rukshanfdo" title="LinkedIn" target="_blank"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://twitter.com/NimeshRukshan" title="Twitter" target="_blank" rel="noopener noreferrer"><img src="assets/LogoIcons/twitter.png" alt="Twitter" width="32" height="32"></a> &nbsp;
