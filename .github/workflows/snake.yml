@@ -1,12 +1,14 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
+  issues:
+  pull_request:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every 24 hours at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -28,6 +30,9 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Remove untracked files (if any)
+        run: |
+          git clean -f dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg
 
       - name: Ensure output branch exists
         run: |
@@ -39,11 +44,16 @@ jobs:
             git checkout output
           fi
 
-
-      - name: Commit and Push
+      - name: Check for changes
+        id: check_changes
         run: |
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git diff-index --quiet HEAD || echo "::set-output name=changes::true"
+
+      - name: Commit and Push
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
           git commit -m "Generate snake animation"
           git push origin output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
